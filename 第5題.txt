@@ -1,0 +1,2 @@
+ViewBag和ViewData都是用在controller和相應的viwe之間溝通
+TempData可以維護從一個控制器到另一個控制器的資料
